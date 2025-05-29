@@ -19,7 +19,7 @@ This is a simple console-based C# application that demonstrates **CRUD operation
 
 ## ✅ Technologies Used
 
-- .NET 6 / C#
+- C#
 - ADO.NET
 - SQL Server
 - Console App
