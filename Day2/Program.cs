@@ -84,19 +84,6 @@ namespace Day2
                     default:
                         Console.WriteLine("Invalid choice. Please try again.");
                         break;
-
-
-
-
-
-
-
-
-
-
-
-
-
                 }
 
                 static void CreateDepartment(string deptName, int Capacity)
