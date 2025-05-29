@@ -5,7 +5,7 @@ namespace Day2
 {
     internal class Program
     {
-        static string connectionString = "Data Source=.\\Sqlexpress;Initial Catalog=CrudDept;Integrated Security=True; TrustServerCertificate = True; ";
+        static string connectionString = "YOUR_CONNECTION_STRING_HERE";
 
 
         static void Main(string[] args)
